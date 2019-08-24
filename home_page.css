@@ -1,0 +1,19 @@
+.image {
+    position: absolute;
+    width: 329px;
+    height: 177px;
+    left: 416px;
+    top: 523px;
+
+    background: url(Wikifootball.jpg);
+    mix-blend-mode: color-burn;
+} 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:blueviolet;
+    color: white;
+    text-align: left;
+  }
